@@ -12,19 +12,19 @@ Welcome to the Employees Activity Dashboard! This web application is fully deplo
 ## Installation
 
 1. *Clone the repository*:
-    bash
-    git clone https://github.com/Ant2965/Koders_Frontend.git
-    cd CUSTOMER_DASHBOARD
+   - bash
+   - git clone https://github.com/Ant2965/Koders_Frontend.git
+   - cd CUSTOMER_DASHBOARD
     
 
 2. *Install dependencies*:
-    bash
-    npm install
+   - bash
+    -npm install
     
 
 3. *Run the application*:
-    bash
-    npm run dev
+   - bash
+  -  npm run dev
     
 
     The application will start on `http://localhost:5173`.
@@ -38,7 +38,7 @@ Welcome to the Employees Activity Dashboard! This web application is fully deplo
 ## Deployment
 
 
-The application will be live at `https://koders-frontend.vercel.app/`
+The application will be live at https://koders-frontend.vercel.app/
 
 
 
